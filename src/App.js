@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React - Test
+          Learn React - Continuous Deployment Test using Netlify and GitHub
         </a>
       </header>
     </div>
